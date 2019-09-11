@@ -9,4 +9,3 @@ fi
 cd app
 mvn clean install
 java -jar target/normalizer.jar $1 $2
-
